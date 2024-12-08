@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/lagoon-white-ocean-summer-sand_1203-5354.jpg?w=900&t=st=1675149492~exp=1675150092~hmac=ec41cc84dd343cae739600120a5ad0dbe138dbbd074dd630ce85c9cc54724dfc");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    background-color: white;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 10px;
+    font-family: "Roboto";
+}
+
+.tourism-button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    font-size: 15px;
+    border-radius: 25px;
+    border-width: 0px;
+}
+
+.favorite-bg-container {
+    background-image: url("https://as2.ftcdn.net/v2/jpg/05/58/60/23/1000_F_558602380_L8C2g2Y4xtCHN556JK9mesj4UxrPHiNh.jpg");
+    background-size: cover;
+}
+
+.favouriteplaces-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.favouriteplaces-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 13px;
+    font-family: "Roboto";
+    margin: 15px;
+    border-style: solid;
+    border-color: green;
+    border-width: 8px;
+}
+
+.favouriteplaces-card-heading {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.favouriteplaces-card-desc {
+    color: blue;
+    font-size: 13px;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+.detailedview-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: white;
+    padding: 15px;
+}
+
+.carousal-card-container {
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 20px;
+}
+
+.card-heading {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.card-desc {
+    font-size: 10px;
+    font-family: "Roboto";
+}
+
+.text-container {
+    padding: 15px;
+}
